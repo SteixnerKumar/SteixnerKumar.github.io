@@ -3,39 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://steixnerkumar.github.io/authors/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/post/</loc>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/publication_types/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/publication/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/talk/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/author/saurabh-steixner-kumar/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://steixnerkumar.github.io/tags/</loc>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/saurabh-steixner-kumar/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

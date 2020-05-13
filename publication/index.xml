@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | SSK</title>
-    <link>https://steixnerkumar.github.io/publication/</link>
-      <atom:link href="https://steixnerkumar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Saurabh Steixner-Kumar 2020</copyright>
     <image>
-      <url>https://steixnerkumar.github.io/images/icon_huddd3c9dde4dc4e02e7fbb6ad817c0048_289969_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huddd3c9dde4dc4e02e7fbb6ad817c0048_289969_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://steixnerkumar.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
   </channel>
