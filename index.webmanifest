@@ -2,14 +2,14 @@
   "name": "SSK",
   "short_name": "SSK",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#5b9cb0",
+  "background_color": "#5b9cb0",
   "icons": [{
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_huddd3c9dde4dc4e02e7fbb6ad817c0048_289969_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_huddd3c9dde4dc4e02e7fbb6ad817c0048_289969_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
