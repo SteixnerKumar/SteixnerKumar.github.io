@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSK</title>
+    <link>/publication/publi_1/</link>
+      <atom:link href="/publication/publi_1/index.xml" rel="self" type="application/rss+xml" />
+    <description>SSK</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Saurabh Steixner-Kumar 2020</copyright>
+    <image>
+      <url>/images/icon_huddd3c9dde4dc4e02e7fbb6ad817c0048_289969_512x512_fill_lanczos_center_2.png</url>
+      <title>SSK</title>
+      <link>/publication/publi_1/</link>
+    </image>
+    
+  </channel>
+</rss>
