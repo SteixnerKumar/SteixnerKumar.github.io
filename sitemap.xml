@@ -3,32 +3,378 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://steixnerkumar.github.io/publication-type/0/</loc>
-    <lastmod>2020-05-13T18:19:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://steixnerkumar.github.io/publication/publi2/</loc>
-    <lastmod>2020-05-13T18:19:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://steixnerkumar.github.io/publication_types/</loc>
-    <lastmod>2020-05-13T18:19:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://steixnerkumar.github.io/publication/</loc>
-    <lastmod>2020-05-13T18:19:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://steixnerkumar.github.io/</loc>
-    <lastmod>2020-05-13T18:19:24+02:00</lastmod>
+    <loc>https://steixnerkumar.github.io/publication-type/2/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://steixnerkumar.github.io/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/computational-modeling/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/decision-making/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/interactivity/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/jan-glascher/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/michael-spezio/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/prashant-doshi/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/saurabh-steixner-kumar/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tags/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/tessa-rusch/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/theory-of-mind/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/rusch-theory-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/uncertainty/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication-type/1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/bayesian-hierarchical-modeling/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/competition/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/cooperation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/ipomdp/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/kumar-modeling-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/kumar-modeling-2019-1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/saurabh-kumar/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/burkhard-pleger/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/cristin-brand/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/felicitas-grundeis/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/han-jeong-hwang/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/jan-mehnert/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/kumar-satiety-induced-2018/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/autoregressive-processes/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/bioelectric-potentials/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/brain/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/brain-mapping/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/brain-modeling/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/brain-oscillatory-activity/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/deep-brain-generator-localization/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/eeg/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/electroencephalogram/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/electroencephalography/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/epilepsy/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/epileptogenic-area/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/chirumamilla-establishing-2017/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/frequency-estimation/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/g.-gonzalez-escamilla/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/head/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/humans/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/m.-muthuraman/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/medical-disorders/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/medical-signal-processing/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/neurological-disorder/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/neuronal-function/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/neurophysiology/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/phasic-oscillatory-signal/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/s.-groppa/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/s.-kumar/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/scalp-data/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/signal-to-noise-ratio/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/source-analysis-method/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/surgery/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/temporal-lobe/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/temporal-lobe-epilepsy/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/tag/tle-surgery/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/v.-chirumamilla/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/x.-longfei/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication-type/0/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/kumar-eeg-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/michael-rullmann/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/grundeis-non-invasive-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/kumar-differences-2016-1/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/kumar-differences-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication-type/3/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/publication/forschack-introduction-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://steixnerkumar.github.io/author/norman-forschack/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,10 +391,6 @@
   
   <url>
     <loc>https://steixnerkumar.github.io/author/saurabh-steixner-kumar/</loc>
-  </url>
-  
-  <url>
-    <loc>https://steixnerkumar.github.io/tags/</loc>
   </url>
   
 </urlset>

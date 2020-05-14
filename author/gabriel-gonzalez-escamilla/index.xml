@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Gonzalez-Escamilla | SSK</title>
+    <link>/author/gabriel-gonzalez-escamilla/</link>
+      <atom:link href="/author/gabriel-gonzalez-escamilla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel Gonzalez-Escamilla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Saurabh Steixner-Kumar 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huddd3c9dde4dc4e02e7fbb6ad817c0048_289969_512x512_fill_lanczos_center_2.png</url>
+      <title>Gabriel Gonzalez-Escamilla</title>
+      <link>/author/gabriel-gonzalez-escamilla/</link>
+    </image>
+    
+    <item>
+      <title>Establishing and validating a new source analysis method using phase</title>
+      <link>/publication/chirumamilla-2017-establishing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chirumamilla-2017-establishing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

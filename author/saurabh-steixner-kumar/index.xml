@@ -5,12 +5,20 @@
     <link>https://steixnerkumar.github.io/author/saurabh-steixner-kumar/</link>
       <atom:link href="https://steixnerkumar.github.io/author/saurabh-steixner-kumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Saurabh Steixner-Kumar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Saurabh Steixner-Kumar 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Saurabh Steixner-Kumar 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://steixnerkumar.github.io/author/saurabh-steixner-kumar/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://steixnerkumar.github.io/images/icon_huddd3c9dde4dc4e02e7fbb6ad817c0048_289969_512x512_fill_lanczos_center_2.png</url>
       <title>Saurabh Steixner-Kumar</title>
       <link>https://steixnerkumar.github.io/author/saurabh-steixner-kumar/</link>
     </image>
+    
+    <item>
+      <title>Theory of mind and decision science: Towards a typology of tasks and computational models</title>
+      <link>https://steixnerkumar.github.io/publication/rusch-theory-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://steixnerkumar.github.io/publication/rusch-theory-2020/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
